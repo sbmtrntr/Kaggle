@@ -7,7 +7,7 @@
 - matplotlib
 - seaborn
 - sklearn
-
+- pytorch
 
 ## 機械学習モデル
 
@@ -15,3 +15,4 @@
 - ランダムフォレスト
 - k分割交差検証
 - グリッドサーチ
+- MLP
